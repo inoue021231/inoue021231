@@ -1,5 +1,9 @@
-### Hi there 👋
+![](https://github-readme-stats.vercel.app/api/top-langs?username=inoue021231)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inoue021231&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inoue021231&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=inoue021231&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inoue021231&theme=react&utcOffset=8)
 <!--
 **inoue021231/inoue021231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
