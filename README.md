@@ -7,6 +7,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=inoue021231&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inoue021231&theme=react&utcOffset=8)
 
-<img alt="Top Langs" height="300px" src='![image](https://github.com/user-attachments/assets/198ab05f-953a-4414-b602-31ca21c36fc7)
-'/>
+<img alt="Top Langs" height="300px" src='https://raw.githubusercontent.com/inoue021231/inoue021231/main/profile-AtCoder/rate-chart.svg?raw=true'/>
 
