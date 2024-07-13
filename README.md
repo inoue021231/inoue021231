@@ -10,4 +10,4 @@
 
 -->
 
-<img alt="Top Langs" src="https://raw.githubusercontent.com/inoue021231/inoue021231/main/profile-AtCoder/rate-chart.svg" width="600"/>
+<img alt="Top Langs" src="https://raw.githubusercontent.com/inoue021231/inoue021231/main/profile-AtCoder/rate-chart.svg" width="100"/>
