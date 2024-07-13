@@ -8,3 +8,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inoue021231&theme=react&utcOffset=8)
 
 <img alt="Top Langs" height="300px" src="./profile-AtCoder/rate-chart.svg"/>
+
+![Top Langs](https://github.com/inoue021231/inoue021231/blob/main/profile-AtCoder/rate-chart.svg)
