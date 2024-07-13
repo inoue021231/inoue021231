@@ -7,4 +7,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=inoue021231&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inoue021231&theme=react&utcOffset=8)
 
+# AtCoder Rating
+
 <img alt="AtCoder Profile" height="200" src="https://raw.githubusercontent.com/inoue021231/inoue021231/main/profile-AtCoder/rate-chart.svg" />
