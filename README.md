@@ -10,5 +10,5 @@
 
 -->
 
-<img alt="Top Langs" height="300px" src='https://raw.githubusercontent.com/inoue021231/inoue021231/main/profile-AtCoder/rate-chart.svg'/>
+![](https://raw.githubusercontent.com/inoue021231/inoue021231/main/profile-AtCoder/rate-chart.svg)
 
