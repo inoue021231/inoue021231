@@ -6,3 +6,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inoue021231&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=inoue021231&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inoue021231&theme=react&utcOffset=8)
+
+<img alt="Top Langs" height="300px" src="./profile-AtCoder/rate-chart.svg"/>
