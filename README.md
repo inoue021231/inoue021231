@@ -12,3 +12,4 @@
 # AtCoder Rating
 
 ![](./profile-AtCoder/rate-chart.svg)
+![](./profile-AtCoder/ac-chart.svg)
