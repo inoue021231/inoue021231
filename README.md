@@ -1,4 +1,4 @@
-<img alt="github trophy" height="150px" src="https://github-profile-trophy.vercel.app/?username=inoue021231&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
+<img alt="github trophy" height="150px" src="https://github-profile-trophy.vercel.app/?username=inoue021231&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
 
 <img alt="skill" height="70px" src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,postgresql" />
 
